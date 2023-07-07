@@ -75,12 +75,14 @@ h6 {
     font-size: 34px;
   
 
-    font-family: lora, serif
+    /* font-family: lora, serif */
+    font-family: 'Poppins'
 }
 
 body {
     font-size: 16px;
-    font-family: barlow, sans-serif;
+    /* font-family: barlow, sans-serif; */
+    font-family: 'Poppins';
     color: #666
 }
 
