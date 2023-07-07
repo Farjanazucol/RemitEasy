@@ -4439,6 +4439,11 @@ select {
     margin-right: 5px;
 }
 
+
+.why-choose-wrap .wh-content .feature-item-wrap .feature-item{
+    padding: 35px 25px;
+ }
+
 .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-icon {
     overflow: visible;
     width: 55px;

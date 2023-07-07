@@ -1772,6 +1772,17 @@
     .app-wrap .app-content .content-title p {
         padding-right: 60px
     } */
+    .shopping-wrap .shopping-content .content-title p{
+      
+        max-width: 85%
+ 
+     }
+
+     .shopping-wrap .shopping-content .content-title h1{
+      font-weight: bolder;
+font-size: 54px;
+       
+     }
 
     /* .feature-card .feature-info .feature-title h3,
     .service-card h3,
@@ -1796,6 +1807,7 @@
         max-width: 85%
     }
 
+    
     .hero-wrap.style1 .container-fluid {
         padding-left: calc((100% - 1520px)/2 + 15px);
         padding-right: 100px
@@ -1819,7 +1831,13 @@
         right: 40px
     }
 
-    .testimonial-card.style3 .client-quote {
-        max-width: 65%
+    .why-choose-wrap .wh-content {
+padding-top: 40px;
     }
+
+    .why-choose-wrap .wh-content .feature-item-wrap .feature-item{
+    
+       padding: 30px 25px;
+    }
+    
 }
