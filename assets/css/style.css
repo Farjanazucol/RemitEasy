@@ -78,7 +78,13 @@ img {
     height: auto
 }
 
-h1,
+h1{
+    line-height: 1.5;
+    color: #000;
+    font-size: 40px;
+    font-family: 'PoppinsBold' !important;
+    font-weight: bolder !important;
+}
 h2,
 
 h4,
@@ -3940,7 +3946,7 @@ padding: 5% !important;
 }
 
 .hero-wrap.style3 .hero-content h1 {
-    font-size: 48px
+    font-size: 40px
 }
 
 .hero-wrap.style3 .hero-img-wrap {
