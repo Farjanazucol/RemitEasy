@@ -1920,12 +1920,12 @@ padding-top: 40px;
 @media only screen and (max-width:1600px) {
 
 .why-choose-wrap .wh-content {
-    padding-top: 35px !important;
+    padding-top: 23px !important;
         }
     
         .why-choose-wrap .wh-content .feature-item-wrap .feature-item{
         
-           padding: 20px !important;
+           padding: 22px !important;
         }
 
         .feature-item-wrap .feature-item .feature-text p {
@@ -1933,14 +1933,14 @@ padding-top: 40px;
         }
         
         .feature-text p {
-            font-size: 22px;
+            font-size: 18px;
             line-height: 1.5;
             color: #666;
           /* padding:  20 !important; */
             width: 100% !important;
         }
         .why-choose-wrap .wh-content .feature-item-wrap .feature-item {
-padding: 35px 25px !important;
+padding: 25px 25px !important;
         }
         /* .feature-item-wrap .feature-item .feature-icon{
             width: 100%;
