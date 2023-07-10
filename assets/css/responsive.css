@@ -1844,7 +1844,7 @@ padding: 15px !important;
     } */
     .shopping-wrap .shopping-content .content-title p{
       
-        max-width: 85%
+        /* max-width: 85% */
  
      }
 
@@ -1874,7 +1874,7 @@ font-size: 46px;
     }
 
     .hero-wrap .hero-content p {
-        max-width: 85%
+        /* max-width: 85% */
     }
 
     
