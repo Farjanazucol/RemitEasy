@@ -2917,16 +2917,28 @@ padding: 5% !important;
             .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-icon img{
                 width: 80%;
                 height: 80%;
-                
-                margin-bottom: 30px !important;
+                margin-bottom: 45px !important;
+                margin-left: 14px !important;
+                /* margin-bottom: 30px !important; */
                 /* margin-right: 30px !important; */
-                margin-left: 15px !important;
+                /* margin-left: 15px !important; */
                 /* padding: 3px; */
                 
                 /* width: 50%;
                 height: 50%; */
                 
+                
             }
+            .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-icon {
+                margin-top: 20px;
+            /* width: 180%;
+    height: 180%; */
+    /* margin-bottom: 0px !important;
+   
+    margin-left: 24px !important; */
+  
+   
+        }
 
             .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-icon:before {
                 width: 120% !important;
@@ -2970,8 +2982,10 @@ padding: 5% !important;
         color: #fff;
         font-size: 26px;
 
-        margin-left: 24px;
-        margin-top: 43px;
+        /* margin-left: 24px;
+        margin-top: 43px; */
+        margin-left: 30px;
+    margin-top: 58px;
     }
 }
 
@@ -4399,7 +4413,7 @@ padding: 5% !important;
     overflow: hidden;
     background: #fff;
     position: relative;
-    top: 3px;
+    /* top: 3px; */
     -webkit-transition: .4s;
     transition: .4s
 }
@@ -4597,7 +4611,7 @@ padding: 5% !important;
     overflow: visible;
     width: 55px;
     height: 55px;
-    top: 13px;
+    top: -6px;
     background: 0 0;
     
    
@@ -4616,16 +4630,16 @@ padding: 5% !important;
     top: 0;
     left: 0;
     content: "";
-    width: 180%;
-    height: 180%;
+    width: 200%;
+    height: 200%;
  
     background: #6828ed;
-    border-radius: 50px;
+    border-radius: 50%;
     z-index: -1
 }
 
 .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-icon:after {
-    border-radius: 50px;
+    border-radius: 50%;
    
 }
 
@@ -7906,6 +7920,11 @@ article {
         /* width: calc(100% - 70px); */
  
      }
+     .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-icon {
+        /* width: 45px;
+        height: 45px; */
+        top: 13px !important
+    }
 
 }
 
