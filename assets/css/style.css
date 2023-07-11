@@ -2056,7 +2056,8 @@ select {
     font-size: 35px;
 }
     .navbar-brand img {
-        max-width: 220px
+        max-width: 220px;
+        margin-left: 25px;
     }
 
     .header-wrap.sticky {
@@ -7863,6 +7864,12 @@ article {
 }
 
 @media only screen and (max-width:500px) {
+
+    .navbar-brand img {
+        max-width: 220px;
+        margin-left: 0px;
+    }
+
 
     .feature-item .feature-text h3 {
       
